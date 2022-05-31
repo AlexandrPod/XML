@@ -1,1 +1,15 @@
-
+<bugReport>
+  <title>Application installation error</title>
+  <severity>Blocker</severity>
+  <priority>High</priority>
+<environment>
+  <mobile1>Xiaomi redmi 4x, Android 7.1.2, MIUI Global 11.0.2.Stable</mobile1>
+  <mobile2>Meizu M6 Note, Android 7.1.2</mobile2>
+  </environment>
+  <str>
+    <step1>download application</step1>
+    <step2>click for install</step2>
+  </str>
+  <ar>Error message appears 'There was a problem parsing the package</ar>
+  <er>Installing the app on the phone</er>
+  </bugreport>

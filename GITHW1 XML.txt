@@ -15,8 +15,8 @@ XML
  11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML  -  echo -e '<skills>\n<skills1>Functional and non-functional testing</skills1>\n<skills2>Test design techniques</skills2>\n<skills3>Understanding programming languages</skills3>\n<skills4>Understanding the systems specifications</skills4>\n<skills5>Pumping soft skills</skills5>\n</skills>' > sklls.xml
 
  12. Сделать коммит в одну строку.  -  git add sklls.xml && git commit -m "Info about Skills"
- 13. Отправить сразу 2 файла на внешний репозиторий.  -  git add preferences.xml sklls.xml && git commit -m "Add info" && git push
-
+ 13. Отправить сразу 2 файла на внешний репозиторий.  -  git add preferences.xml sklls.xml && git commit -m "Add info" && git push  
+ 
  14. На веб интерфейсе создать файл bug_report.xml.  - add file > create new file
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  -  commit changes
  16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.  -  edit this file
